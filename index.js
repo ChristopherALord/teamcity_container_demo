@@ -1,1 +1,1 @@
-console.log("Hello from the podman container! - UPDATE 3")
+console.log("Hello from the podman container! - UPDATE 4")

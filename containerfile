@@ -1,8 +1,8 @@
 # Simple example for a Node.js app
-FROM registry.access.redhat.com/ubi8/nodejs-18
+FROM docker.io/node:18-slim
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
 COPY . .
 EXPOSE 3000
-CMD [ "npm", "start" ]
+CMD [ "npm", "start" 

@@ -25,7 +25,7 @@ const server = http.createServer((req, res) => {
         color: #007bff; 
         text-align: center;
       ">
-        Hello from the Podman Container (Version 1.0)!
+        Hello from the Podman Container (Version 2.0)!
       </h1>
     </div>
   `);

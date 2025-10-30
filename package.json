@@ -1,0 +1,10 @@
+{
+  "name": "teamcity-container-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for the demo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
